@@ -1,5 +1,5 @@
 {
-  "name": "assets-webpack-plugin",
+  "name": "jay-assets-webpack-plugin",
   "version": "3.9.5",
   "description": "Emits a json file with assets paths",
   "main": "dist/index.js",

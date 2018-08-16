@@ -93,7 +93,7 @@ AssetsWebpackPlugin.prototype = {
           }
         }, {})
 
-        if (added) {
+        if (added && chunkName) {
           chunkMap[chunkName] = typeMap
         }
         return chunkMap
